@@ -1,1 +1,1 @@
-select * from paladh p join binita n on p.id=b.id
+select * from paladh p join binita n on p.id=b.id inner join with biprav on id=id
